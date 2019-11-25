@@ -1,0 +1,298 @@
+h1 {    
+    color: rgb(233, 211, 149);
+    font-size: 0.9em; 
+    background-color: rgba(90, 108, 134, 0);
+    font-family: Bill Smith;
+    text-align: right;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    text-shadow: 2px 2px 1.5px rgba(6, 35, 43, 0.692);
+  
+}
+
+h2 {
+    color: rgb(15, 32, 44);
+    font-size: 1.3em; 
+    background-color: rgba(90, 108, 134, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+    padding-top: 120px;
+    
+}
+
+h3 {
+    color: rgb(206, 237, 241);
+    font-size: 3.8em; 
+    padding-top: 0px;
+    background-color: rgba(255, 250, 240, 0);
+    font-family: Oswald;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-shadow: 4px 4px 1.5px rgb(6, 35, 43);
+    text-transform: uppercase;
+    margin-top: 0; 
+}
+
+h4 {
+    color: rgb(247, 246, 229);
+    font-size: 3.8em; 
+    padding-top: 0px;
+    background-color: rgba(255, 250, 240, 0);
+    font-family: Oswald;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-shadow: 4px 4px 1.5px rgb(6, 35, 43);
+    text-transform: uppercase;
+    margin-top: 0; 
+}
+
+
+body {
+    background-image: url("option10 copy.png");
+    background-size: cover;
+    background-position: right top;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+}
+
+#meaningless {
+    color: chartreuse;
+}
+
+#container {
+    margin-top: 375px;
+    background-color: rgba(255, 255, 240, 0);
+    padding: 0px;
+}
+#emphasize {
+    color: rgb(128, 112, 82);
+}
+.button {
+    text-decoration: none;
+    color: lemonchiffon;
+    background-color: rgb(95, 173, 169);
+    padding: 10px;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.button:hover {
+    background-color: rgb(57, 112, 146);
+    color: moccasin;
+}
+
+nav ul {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0; 
+    margin-top: 30px;
+    position: scroll; 
+    top: 0;
+    left: 5px;
+    background-color: rgba(31, 68, 85, 0);
+    width: 100%;
+    margin-left: 30px;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding-left: 20px;
+    color: rgb(39, 58, 41);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-family: Oswald;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    background-color: lightcoral;
+}
+
+
+#nav2 {
+    list-style-type: none; 
+    padding: 0;
+    margin-top: 0; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: sticky; 
+}
+
+#nav2 {
+    float: left; 
+    background-image: url("navbar.jpg");
+}
+
+#nav2 ul li a {
+    display: block;
+    color: rgb(39, 58, 41);
+    text-decoration: none;
+    font-size: 1em;
+    font-family: Oswald;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+#firstpanel {
+    padding-top: 100px;
+    margin: 5px;
+    padding-bottom: 200px;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: right top;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#title1 {
+    font-family: Oswald;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 1.4em;
+    margin-bottom: 0;
+    padding-bottom: 0.3%;
+    color: grey;
+}
+
+#title2 {
+    font-family: Oswald;
+    margin-left: 5.4%;
+    margin-top: 2%;
+    font-size: 2.1em;
+    margin-top: 0;
+    padding-top: 0;
+    color: rgb(68, 95, 68);
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+#underline {
+    font-family: Oswald;
+    margin-left: 4%;
+    margin-top: 0%;
+    font-size: 1.4em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    color: grey;
+}
+
+#bodytext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5%;
+    margin-right: 60%;
+    font-size: 1.2em;
+    color: rgb(82, 81, 81);
+    float: left;
+}
+
+.image2 {
+    size: 1em;
+    float: right;
+
+}
+
+.column {
+    float: left;
+    width: 33.188%;
+    padding: 1px;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+#secondpanel {
+    padding-top: 60px;
+    margin: 5px;
+    padding-bottom: 280px;
+    background-image: url("flower.png");
+    background-size: cover;
+    background-position: right top;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.title3 {
+    font-family: Oswald;
+    margin-left: 30%;
+    margin-top: 0%;
+    font-size: 1.9em;
+    margin-bottom: 0;
+    padding-bottom: 0.3%;
+    color: rgb(255, 255, 255);
+    padding-top:0;
+    text-shadow: 2px 2px 1.5px rgba(6, 35, 43, 0.692);
+
+}
+
+.title4 {
+    font-family: Oswald;
+    margin-left: 35%;
+    margin-top: 0%;
+    font-size: 2.8em;
+    margin-top: 0;
+    padding-top: 0;
+    color: rgb(32, 39, 63);
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-shadow: 2px 2px 1.5px rgba(228, 228, 228, 0.692);
+}
+.underline2 {
+    font-family: Oswald;
+    margin-right: 30%;
+    margin-top: 0%;
+    font-size: 1.8em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    color: rgb(24, 33, 42);
+    float:right;
+}
+
+.bodytext2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 1.2em;
+    color: rgb(14, 21, 39);
+    float: right;
+}
+
+
+.recycleimage {
+    width: 50%;
+    float: right;
+
+  }
